@@ -1,3 +1,5 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jemoji
+
+theme: jekyll-theme-midnight
